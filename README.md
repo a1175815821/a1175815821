@@ -1,6 +1,7 @@
-<!-- ===== Banner ===== -->
+[README.md](https://github.com/user-attachments/files/29676292/README.md)
+<!-- ===== Banner (内联 SVG, 永久稳定无外部依赖) ===== -->
 <p align="center">
-  <img src="https://ibb.co/sdX5NTtF" width="100%" alt="Yingxue Banner" />
+  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='260' viewBox='0 0 1200 260'><defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0%25' stop-color='%230f0524'/><stop offset='50%25' stop-color='%232d0a4e'/><stop offset='100%25' stop-color='%2306141f'/></linearGradient><linearGradient id='neon' x1='0' y1='0' x2='1' y2='0'><stop offset='0%25' stop-color='%237C3AED'/><stop offset='50%25' stop-color='%2306B6D4'/><stop offset='100%25' stop-color='%23EC4899'/></linearGradient></defs><rect width='1200' height='260' fill='url(%23bg)'/><path d='M0,170 L300,170 L320,150 L600,150 L620,170 L1200,170' stroke='url(%23neon)' stroke-width='1.5' fill='none' opacity='0.6'/><path d='M0,210 L200,210 L220,190 L500,190 L520,210 L1200,210' stroke='url(%23neon)' stroke-width='1' fill='none' opacity='0.4'/><circle cx='150' cy='70' r='2' fill='%2306B6D4'/><circle cx='950' cy='50' r='3' fill='%23EC4899'/><circle cx='1100' cy='110' r='2' fill='%237C3AED'/><circle cx='80' cy='130' r='2' fill='%23EC4899'/><circle cx='1050' cy='200' r='2' fill='%2306B6D4'/><text x='600' y='115' font-family='Fira Code, monospace' font-size='64' font-weight='700' fill='url(%23neon)' text-anchor='middle' letter-spacing='8'>YINGXUE</text><text x='600' y='150' font-family='Fira Code, monospace' font-size='16' fill='%2394a3b8' text-anchor='middle' letter-spacing='10'>VR · DEV · BUILDER</text><rect x='500' y='175' width='200' height='2' fill='url(%23neon)' opacity='0.8'/></svg>" width="100%" alt="Yingxue Banner" />
 </p>
 
 <!-- ===== Header / Avatar ===== -->
@@ -12,7 +13,6 @@
 
 <p align="center">
   <em>🏠 在家工作 · Working from Home</em><br/>
-  <sub>📍 Jt 904.2 onedos &nbsp;·&nbsp; 🏢 CCMplay</sub>
 </p>
 
 <!-- ===== Badges ===== -->
@@ -38,11 +38,8 @@
 ```yaml
 name: Yingxue
 role: Independent Developer
-location: "Jt 904.2 onedos"
-company: CCMplay
 working: "🏠 在家工作 / Remote"
 focus: ["VRChat / VR 工具链", "前端 & 用户脚本", "TTS / 语音合成", "逆向 & 修复老项目"]
-achievement: "Pull Shark x2 🦈"
 ```
 
 - 🔭 我正在维护 **MegaDownloader-Revival** —— 让老版 MegaDownloader 重新支持新版 MEGA 链接
@@ -69,57 +66,61 @@ achievement: "Pull Shark x2 🦈"
 
 ---
 
-<!-- ===== GitHub Stats ===== -->
+<!-- ===== GitHub Stats (shields.io 静态徽章, 永久稳定) ===== -->
 ## 📊 GitHub 统计 | GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a1175815821&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1175815821&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%" alt="top langs" />
+  <img src="https://img.shields.io/badge/Public%20Repos-11-7C3AED?style=for-the-badge&logo=github" alt="repos" />
+  <img src="https://img.shields.io/badge/Followers-1-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="followers" />
+  <img src="https://img.shields.io/badge/Stars-26-EC4899?style=for-the-badge&logo=github&logoColor=white" alt="stars" />
+  <img src="https://img.shields.io/badge/Pull%20Shark-x2-9333EA?style=for-the-badge&logo=github&logoColor=white" alt="pull shark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=a1175815821&theme=radical&hide_border=true&ring=7C3AED&fire=EC4899&currStreakLabel=06B6D4" width="70%" alt="streak" />
+  <img src="https://img.shields.io/badge/Member%20Since-2020--08--16-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="since" />
+  <img src="https://img.shields.io/badge/Top%20Lang-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="top lang" />
+  <img src="https://img.shields.io/badge/2nd-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="2nd lang" />
+  <img src="https://img.shields.io/badge/3rd-VB.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="3rd lang" />
 </p>
 
 ---
 
-<!-- ===== Featured Projects ===== -->
+<!-- ===== Featured Projects (手写 HTML 卡片, 永久稳定) ===== -->
 ## 🚀 精选项目 | Featured Projects
 
-<p align="center">
-  <a href="https://github.com/a1175815821/MegaDownloader-Revival">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=a1175815821&repo=MegaDownloader-Revival&theme=radical&hide_border=true" alt="MegaDownloader-Revival" />
-  </a>
-  <a href="https://github.com/a1175815821/VITS2.3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=a1175815821&repo=VITS2.3&theme=radical&hide_border=true" alt="VITS2.3" />
-  </a>
-  <a href="https://github.com/a1175815821/Lights-Out">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=a1175815821&repo=Lights-Out&theme=radical&hide_border=true" alt="Lights-Out" />
-  </a>
-  <a href="https://github.com/a1175815821/OyasumiVR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=a1175815821&repo=OyasumiVR&theme=radical&hide_border=true" alt="OyasumiVR" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3 align="center">📦 <a href="https://github.com/a1175815821/MegaDownloader-Revival">MegaDownloader-Revival</a></h3>
+      <p align="center"><em>MegaDownloader 复活计划</em></p>
+      <p align="center">基于 v1.8 反编译源码修复，恢复对 MEGA 新版链接格式（<code>mega.nz/file/</code>、<code>mega.nz/folder/</code>）的支持</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Language-Visual%20Basic%20.NET-512BD4?style=flat-square&logo=.net&logoColor=white" alt="vbn" />
+        <img src="https://img.shields.io/badge/Status-Maintained-brightgreen?style=flat-square" alt="status" />
+        <img src="https://img.shields.io/badge/Updated-2026--07-7C3AED?style=flat-square" alt="updated" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <details>
 <summary>📂 更多仓库 | More Repositories</summary>
 
 | 仓库 | 说明 | 语言 |
 | --- | --- | --- |
+| [OyasumiVR](https://github.com/a1175815821/OyasumiVR) | VRChat 睡眠辅助工具，Fork 自 Raphiiko/OyasumiVR | TypeScript |
 | [VRCX](https://github.com/a1175815821/VRCX) | VRChat 好友管理工具 (Fork) | Vue |
-| [Vi](https://github.com/a1175815821/Vi) | Vi 主页 | HTML |
 | [Yingxue](https://github.com/a1175815821/Yingxue) | Profile 仓库 | — |
 
 </details>
 
 ---
 
-<!-- ===== Activity ===== -->
-## 🗓️ 最近动态 | Recent Activity
+<!-- ===== Activity (内联 SVG, 永久稳定) ===== -->
+## 🗓️ 编程格言 | Coding Mantra
 
-<!-- GitHub Action 可自动生成活动图，默认展示占位 -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a1175815821&theme=react-dark&hide_border=true&area=true&color=7C3AED&line=06B6D4&point=EC4899" width="95%" alt="activity graph" />
+  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='800' height='120' viewBox='0 0 800 120'><rect width='800' height='120' fill='%230f0524' rx='12'/><linearGradient id='g' x1='0' y1='0' x2='1' y2='0'><stop offset='0%25' stop-color='%237C3AED'/><stop offset='100%25' stop-color='%2306B6D4'/></linearGradient><text x='400' y='52' font-family='Fira Code, monospace' font-size='20' fill='url(%23g)' text-anchor='middle' font-weight='600'>%22Keep building, keep breaking, keep fixing.%22</text><text x='400' y='85' font-family='Fira Code, monospace' font-size='13' fill='%2394a3b8' text-anchor='middle' letter-spacing='4'>— Yingxue, since 2020</text></svg>" width="85%" alt="mantra" />
 </p>
 
 ---
