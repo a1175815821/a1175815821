@@ -1,8 +1,3 @@
-<!-- ===== Banner ===== -->
-<p align="center">
-  <img src="https://ibb.co/sdX5NTtF" width="100%" alt="Yingxue Banner" />
-</p>
-
 <!-- ===== Header / Avatar ===== -->
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/69738698?v=4" width="130" alt="Yingxue avatar" />
@@ -68,10 +63,6 @@ focus: ["VRChat / VR 工具链", "前端 & 用户脚本", "TTS / 语音合成", 
 <!-- ===== GitHub Stats ===== -->
 ## 📊 GitHub 统计 | GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=a1175815821&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1175815821&layout=compact&theme=radical&hide_border=true&langs_count=8" width="48%" alt="top langs" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=a1175815821&theme=radical&hide_border=true&ring=7C3AED&fire=EC4899&currStreakLabel=06B6D4" width="70%" alt="streak" />
