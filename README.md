@@ -88,6 +88,26 @@ focus: ["VRChat / VR 工具链", "前端 & 用户脚本", "TTS / 语音合成", 
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3 align="center">🎮 <a href="https://github.com/a1175815821/DG-Lab-2.0-VRChat-OSC">DG-Lab-2.0-VRChat-OSC</a></h3>
+      <p align="center"><em>DG-Lab 2.0 × VRChat OSC Bridge</em></p>
+      <p align="center">
+        通过 VRChat OSC 实时桥接 DG-Lab 2.0，
+        将游戏内 Avatar 参数、交互事件映射至设备控制，
+        提供低延迟、可扩展的沉浸式体验。
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Language-C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="csharp" />
+        <img src="https://img.shields.io/badge/Platform-VRChat%20OSC-1F8BFF?style=flat-square" alt="platform" />
+        <img src="https://img.shields.io/badge/Status-Maintained-brightgreen?style=flat-square" alt="status" />
+        <img src="https://img.shields.io/badge/Updated-2026--07-7C3AED?style=flat-square" alt="updated" />
+      </p>
+    </td>
+  </tr>
+</table>
+
 <details>
 <summary>📂 更多仓库 | More Repositories</summary>
 
