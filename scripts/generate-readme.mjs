@@ -147,7 +147,8 @@ function eventText(ev) {
   switch (ev.type) {
     case 'PushEvent': {
       const n = ev.payload?.size || ev.payload?.commits?.length || 0;
-      return `⬆️ 推送了 **${n} 个提交**到 ${repo}`;
+      // size=0 常见于分支删除等特殊推送，避免显示「0 个提交」
+      return n > 0 ? `⬆️ 推送了 **${n} 个提交**到 ${repo}` : `⬆️ 向 ${repo} 推送了新代码`;
     }
     case 'PullRequestEvent': {
       const pr = ev.payload?.pull_request;
