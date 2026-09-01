@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="https://aka.doubaocdn.com/s/qpcMDxHpnm" width="1000" alt="banner" />
+<img src="https://avatars.githubusercontent.com/u/69738698?v=4" width="130" alt="Yingxue avatar" />
 
 # 嗨，我是 Yingxue 👋
 
@@ -29,6 +29,8 @@
 <img src="https://img.shields.io/badge/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93-9-blue?style=flat-square&logo=github" alt="公开仓库"> <img src="https://img.shields.io/badge/%E8%8E%B7%E5%BE%97%20Stars-30-yellow?style=flat-square&logo=githubsponsors" alt="获得 Stars"> <img src="https://img.shields.io/badge/Forks-0-orange?style=flat-square&logo=git" alt="Forks"> <img src="https://img.shields.io/badge/%E5%85%B3%E6%B3%A8%E8%80%85-4-7C3AED?style=flat-square&logo=github" alt="关注者">
 
 <!-- AUTO:END:badges -->
+
+<img src="https://komarev.com/ghpvc/?username=a1175815821&label=Visitors&color=7C3AED&style=flat-square" alt="visitors" />
 
 🏠 在家工作 · Working from Home
 
@@ -74,30 +76,9 @@ focus:
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=a1175815821&show_icons=true&theme=onedark&hide_border=true&rank_icon=github" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=a1175815821&show_icons=true&theme=react&hide_border=true&rank_icon=github" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=a1175815821&show_icons=true&theme=react&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=a1175815821&layout=compact&theme=onedark&hide_border=true&card_width=320" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=a1175815821&layout=compact&theme=react&hide_border=true&card_width=320" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1175815821&layout=compact&theme=react&hide_border=true&card_width=320" alt="Top Languages" />
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=a1175815821&theme=onedark&hide_border=true&date_format=%5BY.%5Dn.%5Bj%5D" />
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=a1175815821&theme=react&hide_border=true&date_format=%5BY.%5Dn.%5Bj%5D" />
     <img width="70%" src="https://streak-stats.demolab.com?user=a1175815821&theme=react&hide_border=true&date_format=%5BY.%5Dn.%5Bj%5D" alt="GitHub Streak" />
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=a1175815821&theme=react-dark&hide_border=true&area=true&color=7C3AED&line=06B6D4&point=EC4899" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=a1175815821&theme=react&hide_border=true&area=true&color=7C3AED&line=06B6D4&point=EC4899" />
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=a1175815821&theme=react&hide_border=true&area=true&color=7C3AED&line=06B6D4&point=EC4899" alt="Activity Graph" />
   </picture>
 </div>
 
@@ -120,8 +101,6 @@ MegaDownloader 复活计划 (Revival Project) - 基于 v1.8 反编译源码修�
 `JavaScript` · ⭐ 2
 
 <!-- AUTO:END:pinned -->
-
-> 💡 本区块自动同步 GitHub 主页的「置顶仓库」—— 在 [个人资料设置](https://github.com/settings/profile) 里调整 Pinned 即可，无需改任何代码
 
 ## 📂 更多仓库 | More Repositories
 
@@ -158,14 +137,6 @@ MegaDownloader 复活计划 (Revival Project) - 基于 v1.8 反编译源码修�
 
 <div align="center">
 
-## 🏆 成就 | Trophies
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=a1175815821&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=a1175815821&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" />
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=a1175815821&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Trophies" />
-</picture>
-
 ## 🐍 贡献贪吃蛇 | Contribution Snake
 
 <picture>
@@ -178,6 +149,6 @@ MegaDownloader 复活计划 (Revival Project) - 基于 v1.8 反编译源码修�
 
 <sub>© 2026 Yingxue · Crafted with ❤️ & a lot of ☕</sub>
 
-<sub>🤖 页面数据由 [GitHub Actions](./.github/workflows/update-readme.yml) 每天自动更新 4 次</sub>
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,2,18,24&height=80&section=footer" width="100%" alt="footer" />

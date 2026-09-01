@@ -108,6 +108,7 @@ function renderBadges(user, repos) {
     badge('获得 Stars', stars, 'yellow', 'githubsponsors'),
     badge('Forks', forks, 'orange', 'git'),
     badge('关注者', user.followers ?? 0, '7C3AED', 'github'),
+    badge('入驻年份', new Date(user.created_at).getFullYear() || '—', '06B6D4', 'github'),
   ].join(' ');
 }
 
