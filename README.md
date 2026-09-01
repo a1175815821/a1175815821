@@ -26,7 +26,7 @@
 
 <!-- AUTO:START:badges -->
 
-<img src="https://img.shields.io/badge/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93-9-blue?style=flat-square&logo=github" alt="公开仓库"> <img src="https://img.shields.io/badge/%E8%8E%B7%E5%BE%97%20Stars-30-yellow?style=flat-square&logo=githubsponsors" alt="获得 Stars"> <img src="https://img.shields.io/badge/Forks-0-orange?style=flat-square&logo=git" alt="Forks"> <img src="https://img.shields.io/badge/%E5%85%B3%E6%B3%A8%E8%80%85-4-7C3AED?style=flat-square&logo=github" alt="关注者">
+<img src="https://img.shields.io/badge/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93-9-blue?style=flat-square&logo=github" alt="公开仓库"> <img src="https://img.shields.io/badge/%E8%8E%B7%E5%BE%97%20Stars-30-yellow?style=flat-square&logo=githubsponsors" alt="获得 Stars"> <img src="https://img.shields.io/badge/Forks-0-orange?style=flat-square&logo=git" alt="Forks"> <img src="https://img.shields.io/badge/%E5%85%B3%E6%B3%A8%E8%80%85-4-7C3AED?style=flat-square&logo=github" alt="关注者"> <img src="https://img.shields.io/badge/%E5%85%A5%E9%A9%BB%E5%B9%B4%E4%BB%BD-2020-06B6D4?style=flat-square&logo=github" alt="入驻年份">
 
 <!-- AUTO:END:badges -->
 
@@ -123,8 +123,8 @@ MegaDownloader 复活计划 (Revival Project) - 基于 v1.8 反编译源码修�
 
 <!-- AUTO:START:activity -->
 
-- 🚀 在 [vrchat-friend-cleaner](https://github.com/a1175815821/vrchat-friend-cleaner) 发布了 [v1.3.3 暗色全量/安全加固](https://github.com/a1175815821/vrchat-friend-cleaner/releases/tag/v1.3.3) <sub>`38 分钟前`</sub>
-- ⬆️ 向 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 推送了新代码 <sub>`19 小时前`</sub>
+- 🚀 在 [vrchat-friend-cleaner](https://github.com/a1175815821/vrchat-friend-cleaner) 发布了 [v1.3.3 暗色全量/安全加固](https://github.com/a1175815821/vrchat-friend-cleaner/releases/tag/v1.3.3) <sub>`53 分钟前`</sub>
+- ⬆️ 向 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 推送了新代码 <sub>`20 小时前`</sub>
 - 💬 在 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 的 [#2](https://github.com/a1175815821/MegaDownloader-Revival/issues/2) 中评论 <sub>`20 小时前`</sub>
 - 🐛 关闭了 Issue [#1](https://github.com/a1175815821/MegaDownloader-Revival/issues/1) · [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) <sub>`21 小时前`</sub>
 - 🚀 在 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 发布了 [v2.4.1](https://github.com/a1175815821/MegaDownloader-Revival/releases/tag/v2.4.1) <sub>`17 天前`</sub>
