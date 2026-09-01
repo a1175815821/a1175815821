@@ -26,7 +26,7 @@
 
 <!-- AUTO:START:badges -->
 
-<!-- 本次数据获取失败，等待下次运行自动恢复 -->
+<img src="https://img.shields.io/badge/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93-9-blue?style=flat-square&logo=github" alt="公开仓库"> <img src="https://img.shields.io/badge/%E8%8E%B7%E5%BE%97%20Stars-30-yellow?style=flat-square&logo=githubsponsors" alt="获得 Stars"> <img src="https://img.shields.io/badge/Forks-0-orange?style=flat-square&logo=git" alt="Forks"> <img src="https://img.shields.io/badge/%E5%85%B3%E6%B3%A8%E8%80%85-4-7C3AED?style=flat-square&logo=github" alt="关注者">
 
 <!-- AUTO:END:badges -->
 
@@ -105,7 +105,19 @@ focus:
 
 <!-- AUTO:START:pinned -->
 
-<!-- 暂无置顶仓库：去 GitHub 主页设置 Pinned repositories 后自动出现 -->
+### 📦 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival)
+
+MegaDownloader 复活计划 (Revival Project) - 基于 v1.8 反编译源码修复,恢复对 MEGA 新版链接格式 (mega.n…
+
+`Visual Basic .NET` · ⭐ 27
+
+---
+
+### 📦 [DG-Lab-2.0-VRChat-OSC](https://github.com/a1175815821/DG-Lab-2.0-VRChat-OSC)
+
+将 DG-Lab Coyote 电刺激设备通过 OSC 协议接入 VRChat。基于 Sakura0721/osc-toys 二次开发，修复核心 Bug 并增…
+
+`JavaScript` · ⭐ 2
 
 <!-- AUTO:END:pinned -->
 
@@ -115,7 +127,16 @@ focus:
 
 <!-- AUTO:START:repos -->
 
-<!-- 暂无仓库 -->
+| 仓库 | 说明 | 语言 | Stars |
+|:---|:---|:---:|:---:|
+| [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) | MegaDownloader 复活计划 (Revival Project) - 基于 v1.8 反… | Visual Basic .NET | ⭐ 27 |
+| [DG-Lab-2.0-VRChat-OSC](https://github.com/a1175815821/DG-Lab-2.0-VRChat-OSC) | 将 DG-Lab Coyote 电刺激设备通过 OSC 协议接入 VRChat。基于 Sakura… | JavaScript | ⭐ 2 |
+| 🍴 [OyasumiVR](https://github.com/a1175815821/OyasumiVR) | 🥽 VR Sleeping Utilities | TypeScript | ⭐ 1 |
+| [vrchat-friend-cleaner](https://github.com/a1175815821/vrchat-friend-cleaner) | VRChat 好友批量清理工具 - 纯标准库暗色GUI，支持2FA/断点续传/防封控速 | Python | — |
+| [DGLAB-V2.0-socket-UI](https://github.com/a1175815821/DGLAB-V2.0-socket-UI) | DGLAB V2.0 Web Control Panel with i18n, waveform … | Python | — |
+| 🍴 [VRCX](https://github.com/a1175815821/VRCX) | Friendship management tool for VRChat | Vue | — |
+| 🍴 [genshinhelper](https://github.com/a1175815821/genshinhelper) | Automatically get Genshin Impact daily check-in r… | Python | — |
+| 🍴 [GenshinDailyHelper](https://github.com/a1175815821/GenshinDailyHelper) | miHoYo APP Genshin Impact daily bonus by Github A… | C# | — |
 
 <!-- AUTO:END:repos -->
 
@@ -123,7 +144,13 @@ focus:
 
 <!-- AUTO:START:activity -->
 
-<!-- 最近没有公开动态 -->
+- 🚀 在 [vrchat-friend-cleaner](https://github.com/a1175815821/vrchat-friend-cleaner) 发布了 [v1.3.3 暗色全量/安全加固](https://github.com/a1175815821/vrchat-friend-cleaner/releases/tag/v1.3.3) <sub>`36 分钟前`</sub>
+- ⬆️ 推送了 **0 个提交**到 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) <sub>`19 小时前`</sub>
+- 💬 在 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 的 [#2](https://github.com/a1175815821/MegaDownloader-Revival/issues/2) 中评论 <sub>`20 小时前`</sub>
+- 🐛 关闭了 Issue [#1](https://github.com/a1175815821/MegaDownloader-Revival/issues/1) · [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) <sub>`21 小时前`</sub>
+- 🚀 在 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 发布了 [v2.4.1](https://github.com/a1175815821/MegaDownloader-Revival/releases/tag/v2.4.1) <sub>`17 天前`</sub>
+- ⬆️ 推送了 **0 个提交**到 [DG-Lab-2.0-VRChat-OSC](https://github.com/a1175815821/DG-Lab-2.0-VRChat-OSC) <sub>`19 天前`</sub>
+- ⭐ Star 了 [keybodhi/AoiVR](https://github.com/keybodhi/AoiVR) <sub>`21 天前`</sub>
 
 <!-- AUTO:END:activity -->
 
