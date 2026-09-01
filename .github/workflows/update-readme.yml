@@ -1,0 +1,74 @@
+# ============================================================
+#  GitHub Profile README 自动更新
+#  ------------------------------------------------------------
+#  触发方式：
+#    1. 定时：每天 4 次（UTC 01:30 / 07:30 / 13:30 / 19:30
+#       ≈ 北京时间 09:30 / 15:30 / 21:30 / 03:30）
+#    2. 手动：Actions → Update Profile README → Run workflow
+#    3. 推送：README / 脚本 / 本文件有改动时自动跑一次
+#
+#  做的事：
+#    - 生成贪吃蛇贡献图动画 assets/snake*.svg
+#    - 调用 scripts/generate-readme.mjs 抓取 GitHub 数据，
+#      更新 README.md 中的 AUTO 标记区块
+#    - 有变化才提交（bot 用 GITHUB_TOKEN 推送不会再次
+#      触发工作流，所以没有死循环）
+# ============================================================
+name: Update Profile README
+
+on:
+  schedule:
+    - cron: '30 1,7,13,19 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['README.md', 'scripts/**', '.github/workflows/update-readme.yml']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      # 1) 生成贪吃蛇贡献图动画（深浅色各一张）
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/snake.svg
+            assets/snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # 2) 抓取 GitHub 数据，更新 README 中的自动区块
+      - name: Update README data
+        run: node scripts/generate-readme.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # 3) 有变化才提交
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/
+          if git diff --cached --quiet; then
+            echo "✅ 数据无变化，跳过提交"
+          else
+            git commit -m "🤖 auto-update profile data ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+            git push
+          fi
