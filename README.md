@@ -123,12 +123,12 @@ MegaDownloader 复活计划 (Revival Project) - 基于 v1.8 反编译源码修�
 
 <!-- AUTO:START:activity -->
 
-- 🐛 关闭了 Issue [#2](https://github.com/a1175815821/MegaDownloader-Revival/issues/2) · [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) <sub>`21 小时前`</sub>
-- ⬆️ 向 [a1175815821](https://github.com/a1175815821/a1175815821) 推送了新代码 <sub>`1 天前`</sub>
+- 🐛 关闭了 Issue [#2](https://github.com/a1175815821/MegaDownloader-Revival/issues/2) · [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) <sub>`1 天前`</sub>
+- ⬆️ 向 [a1175815821](https://github.com/a1175815821/a1175815821) 推送了新代码 <sub>`2 天前`</sub>
 - 🌱 在 [vrchat-friend-cleaner](https://github.com/a1175815821/vrchat-friend-cleaner) 创建了分支 <sub>`2 天前`</sub>
 - 🚀 在 [vrchat-friend-cleaner](https://github.com/a1175815821/vrchat-friend-cleaner) 发布了 [v1.3.3 暗色全量/安全加固](https://github.com/a1175815821/vrchat-friend-cleaner/releases/tag/v1.3.3) <sub>`2 天前`</sub>
-- ⬆️ 向 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 推送了新代码 <sub>`2 天前`</sub>
-- 💬 在 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 的 [#2](https://github.com/a1175815821/MegaDownloader-Revival/issues/2) 中评论 <sub>`2 天前`</sub>
+- ⬆️ 向 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 推送了新代码 <sub>`3 天前`</sub>
+- 💬 在 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 的 [#2](https://github.com/a1175815821/MegaDownloader-Revival/issues/2) 中评论 <sub>`3 天前`</sub>
 - 🚀 在 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 发布了 [v2.4.1](https://github.com/a1175815821/MegaDownloader-Revival/releases/tag/v2.4.1) <sub>`19 天前`</sub>
 - ⬆️ 向 [DG-Lab-2.0-VRChat-OSC](https://github.com/a1175815821/DG-Lab-2.0-VRChat-OSC) 推送了新代码 <sub>`21 天前`</sub>
 
