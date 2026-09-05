@@ -26,7 +26,7 @@
 
 <!-- AUTO:START:badges -->
 
-<img src="https://img.shields.io/badge/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93-9-blue?style=flat-square&logo=github" alt="公开仓库"> <img src="https://img.shields.io/badge/%E8%8E%B7%E5%BE%97%20Stars-31-yellow?style=flat-square&logo=githubsponsors" alt="获得 Stars"> <img src="https://img.shields.io/badge/Forks-0-orange?style=flat-square&logo=git" alt="Forks"> <img src="https://img.shields.io/badge/%E5%85%B3%E6%B3%A8%E8%80%85-4-7C3AED?style=flat-square&logo=github" alt="关注者"> <img src="https://img.shields.io/badge/%E5%85%A5%E9%A9%BB%E5%B9%B4%E4%BB%BD-2020-06B6D4?style=flat-square&logo=github" alt="入驻年份">
+<img src="https://img.shields.io/badge/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93-9-blue?style=flat-square&logo=github" alt="公开仓库"> <img src="https://img.shields.io/badge/%E8%8E%B7%E5%BE%97%20Stars-32-yellow?style=flat-square&logo=githubsponsors" alt="获得 Stars"> <img src="https://img.shields.io/badge/Forks-0-orange?style=flat-square&logo=git" alt="Forks"> <img src="https://img.shields.io/badge/%E5%85%B3%E6%B3%A8%E8%80%85-4-7C3AED?style=flat-square&logo=github" alt="关注者"> <img src="https://img.shields.io/badge/%E5%85%A5%E9%A9%BB%E5%B9%B4%E4%BB%BD-2020-06B6D4?style=flat-square&logo=github" alt="入驻年份">
 
 <!-- AUTO:END:badges -->
 
@@ -90,7 +90,7 @@ focus:
 
 MegaDownloader 复活计划 (Revival Project) - 基于 v1.8 反编译源码修复,恢复对 MEGA 新版链接格式 (mega.n…
 
-`Visual Basic .NET` · ⭐ 28
+`Visual Basic .NET` · ⭐ 29
 
 ---
 
@@ -108,7 +108,7 @@ MegaDownloader 复活计划 (Revival Project) - 基于 v1.8 反编译源码修�
 
 | 仓库 | 说明 | 语言 | Stars |
 |:---|:---|:---:|:---:|
-| [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) | MegaDownloader 复活计划 (Revival Project) - 基于 v1.8 反… | Visual Basic .NET | ⭐ 28 |
+| [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) | MegaDownloader 复活计划 (Revival Project) - 基于 v1.8 反… | Visual Basic .NET | ⭐ 29 |
 | [DG-Lab-2.0-VRChat-OSC](https://github.com/a1175815821/DG-Lab-2.0-VRChat-OSC) | 将 DG-Lab Coyote 电刺激设备通过 OSC 协议接入 VRChat。基于 Sakura… | JavaScript | ⭐ 2 |
 | 🍴 [OyasumiVR](https://github.com/a1175815821/OyasumiVR) | 🥽 VR Sleeping Utilities | TypeScript | ⭐ 1 |
 | [vrchat-friend-cleaner](https://github.com/a1175815821/vrchat-friend-cleaner) | VRChat 好友批量清理工具 - 纯标准库暗色GUI，支持2FA/断点续传/防封控速 | Python | — |
@@ -123,14 +123,14 @@ MegaDownloader 复活计划 (Revival Project) - 基于 v1.8 反编译源码修�
 
 <!-- AUTO:START:activity -->
 
-- ⬆️ 向 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 推送了新代码 <sub>`2 天前`</sub>
+- ⬆️ 向 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 推送了新代码 <sub>`19 小时前`</sub>
 - 🐛 关闭了 Issue [#2](https://github.com/a1175815821/MegaDownloader-Revival/issues/2) · [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) <sub>`2 天前`</sub>
 - ⬆️ 向 [a1175815821](https://github.com/a1175815821/a1175815821) 推送了新代码 <sub>`3 天前`</sub>
 - 🌱 在 [vrchat-friend-cleaner](https://github.com/a1175815821/vrchat-friend-cleaner) 创建了分支 <sub>`3 天前`</sub>
 - 🚀 在 [vrchat-friend-cleaner](https://github.com/a1175815821/vrchat-friend-cleaner) 发布了 [v1.3.3 暗色全量/安全加固](https://github.com/a1175815821/vrchat-friend-cleaner/releases/tag/v1.3.3) <sub>`3 天前`</sub>
 - 💬 在 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 的 [#2](https://github.com/a1175815821/MegaDownloader-Revival/issues/2) 中评论 <sub>`4 天前`</sub>
 - 🚀 在 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 发布了 [v2.4.1](https://github.com/a1175815821/MegaDownloader-Revival/releases/tag/v2.4.1) <sub>`21 天前`</sub>
-- ⬆️ 向 [DG-Lab-2.0-VRChat-OSC](https://github.com/a1175815821/DG-Lab-2.0-VRChat-OSC) 推送了新代码 <sub>`22 天前`</sub>
+- ⬆️ 向 [DG-Lab-2.0-VRChat-OSC](https://github.com/a1175815821/DG-Lab-2.0-VRChat-OSC) 推送了新代码 <sub>`23 天前`</sub>
 
 <!-- AUTO:END:activity -->
 
