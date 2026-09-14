@@ -88,7 +88,7 @@ focus:
 
 ### 📦 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival)
 
-MegaDownloader 复活计划 (Revival Project) - 基于 v1.8 反编译源码修复,恢复对 MEGA 新版链接格式 (mega.n…
+Reviving MegaDownloader v1.8 with modern MEGA link support. Restored support fo…
 
 `Visual Basic .NET` · ⭐ 33
 
@@ -108,7 +108,7 @@ MegaDownloader 复活计划 (Revival Project) - 基于 v1.8 反编译源码修�
 
 | 仓库 | 说明 | 语言 | Stars |
 |:---|:---|:---:|:---:|
-| [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) | MegaDownloader 复活计划 (Revival Project) - 基于 v1.8 反… | Visual Basic .NET | ⭐ 33 |
+| [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) | Reviving MegaDownloader v1.8 with modern MEGA lin… | Visual Basic .NET | ⭐ 33 |
 | [DG-Lab-2.0-VRChat-OSC](https://github.com/a1175815821/DG-Lab-2.0-VRChat-OSC) | 将 DG-Lab Coyote 电刺激设备通过 OSC 协议接入 VRChat。基于 Sakura… | JavaScript | ⭐ 2 |
 | 🍴 [OyasumiVR](https://github.com/a1175815821/OyasumiVR) | 🥽 VR Sleeping Utilities | TypeScript | ⭐ 1 |
 | [MegaDownloader-Revival-Web](https://github.com/a1175815821/MegaDownloader-Revival-Web) | Landing page for MegaDownloader Revival (classic … | HTML | — |
@@ -123,10 +123,10 @@ MegaDownloader 复活计划 (Revival Project) - 基于 v1.8 反编译源码修�
 
 <!-- AUTO:START:activity -->
 
-- ⬆️ 向 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 推送了新代码 <sub>`36 分钟前`</sub>
-- ⬆️ 向 [MegaDownloader-Revival-Web](https://github.com/a1175815821/MegaDownloader-Revival-Web) 推送了新代码 <sub>`1 小时前`</sub>
-- 🌱 在 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 创建了分支 <sub>`15 小时前`</sub>
-- 🔀 更新了 PR [#3](undefined) · [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) <sub>`17 小时前`</sub>
+- ⬆️ 向 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 推送了新代码 <sub>`8 小时前`</sub>
+- ⬆️ 向 [MegaDownloader-Revival-Web](https://github.com/a1175815821/MegaDownloader-Revival-Web) 推送了新代码 <sub>`8 小时前`</sub>
+- 🌱 在 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 创建了分支 <sub>`23 小时前`</sub>
+- 🔀 更新了 PR [#3](undefined) · [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) <sub>`1 天前`</sub>
 - 🚀 在 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 发布了 [v2.5 RC1 (test)](https://github.com/a1175815821/MegaDownloader-Revival/releases/tag/test-v2.5-rc1) <sub>`1 天前`</sub>
 
 <!-- AUTO:END:activity -->
