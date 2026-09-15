@@ -123,12 +123,11 @@ Reviving MegaDownloader v1.8 with modern MEGA link support. Restored support fo�
 
 <!-- AUTO:START:activity -->
 
+- ⬆️ 向 [DG-Lab-2.0-VRChat-OSC](https://github.com/a1175815821/DG-Lab-2.0-VRChat-OSC) 推送了新代码 <sub>`6 小时前`</sub>
 - ⬆️ 向 [MegaDownloader-Revival-Web](https://github.com/a1175815821/MegaDownloader-Revival-Web) 推送了新代码 <sub>`1 天前`</sub>
 - 🌱 在 [MegaDownloader-Revival-Web](https://github.com/a1175815821/MegaDownloader-Revival-Web) 创建了分支 <sub>`1 天前`</sub>
-- ⬆️ 向 [DG-Lab-2.0-VRChat-OSC](https://github.com/a1175815821/DG-Lab-2.0-VRChat-OSC) 推送了新代码 <sub>`15 小时前`</sub>
 - ⬆️ 向 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 推送了新代码 <sub>`2 天前`</sub>
 - 🌱 在 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 创建了分支 <sub>`2 天前`</sub>
-- 🔀 更新了 PR [#3](undefined) · [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) <sub>`2 天前`</sub>
 
 <!-- AUTO:END:activity -->
 
