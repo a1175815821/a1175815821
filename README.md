@@ -26,7 +26,7 @@
 
 <!-- AUTO:START:badges -->
 
-<img src="https://img.shields.io/badge/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93-10-blue?style=flat-square&logo=github" alt="公开仓库"> <img src="https://img.shields.io/badge/%E8%8E%B7%E5%BE%97%20Stars-37-yellow?style=flat-square&logo=githubsponsors" alt="获得 Stars"> <img src="https://img.shields.io/badge/Forks-0-orange?style=flat-square&logo=git" alt="Forks"> <img src="https://img.shields.io/badge/%E5%85%B3%E6%B3%A8%E8%80%85-5-7C3AED?style=flat-square&logo=github" alt="关注者"> <img src="https://img.shields.io/badge/%E5%85%A5%E9%A9%BB%E5%B9%B4%E4%BB%BD-2020-06B6D4?style=flat-square&logo=github" alt="入驻年份">
+<img src="https://img.shields.io/badge/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93-11-blue?style=flat-square&logo=github" alt="公开仓库"> <img src="https://img.shields.io/badge/%E8%8E%B7%E5%BE%97%20Stars-37-yellow?style=flat-square&logo=githubsponsors" alt="获得 Stars"> <img src="https://img.shields.io/badge/Forks-0-orange?style=flat-square&logo=git" alt="Forks"> <img src="https://img.shields.io/badge/%E5%85%B3%E6%B3%A8%E8%80%85-5-7C3AED?style=flat-square&logo=github" alt="关注者"> <img src="https://img.shields.io/badge/%E5%85%A5%E9%A9%BB%E5%B9%B4%E4%BB%BD-2020-06B6D4?style=flat-square&logo=github" alt="入驻年份">
 
 <!-- AUTO:END:badges -->
 
@@ -113,9 +113,9 @@ Reviving MegaDownloader v1.8 with modern MEGA link support. Restored support fo�
 | 🍴 [OyasumiVR](https://github.com/a1175815821/OyasumiVR) | 🥽 VR Sleeping Utilities | TypeScript | ⭐ 1 |
 | [MegaDownloader-Revival-Web](https://github.com/a1175815821/MegaDownloader-Revival-Web) | Landing page for MegaDownloader Revival (classic … | HTML | — |
 | [vrchat-friend-cleaner](https://github.com/a1175815821/vrchat-friend-cleaner) | VRChat 好友批量清理工具 - 纯标准库暗色GUI，支持2FA/断点续传/防封控速 | Python | — |
+| 🍴 [TarkovAutoShadePlus](https://github.com/a1175815821/TarkovAutoShadePlus) | A local adaptive SDR display filter for Escape fr… | — | — |
 | [DGLAB-V2.0-socket-UI](https://github.com/a1175815821/DGLAB-V2.0-socket-UI) | DGLAB V2.0 Web Control Panel with i18n, waveform … | Python | — |
 | 🍴 [VRCX](https://github.com/a1175815821/VRCX) | Friendship management tool for VRChat | Vue | — |
-| 🍴 [genshinhelper](https://github.com/a1175815821/genshinhelper) | Automatically get Genshin Impact daily check-in r… | Python | — |
 
 <!-- AUTO:END:repos -->
 
@@ -123,9 +123,10 @@ Reviving MegaDownloader v1.8 with modern MEGA link support. Restored support fo�
 
 <!-- AUTO:START:activity -->
 
-- ⬆️ 向 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 推送了新代码 <sub>`20 小时前`</sub>
+- ⬆️ 向 [MegaDownloader-Revival-Web](https://github.com/a1175815821/MegaDownloader-Revival-Web) 推送了新代码 <sub>`3 小时前`</sub>
+- 🍴 Fork 了 [a1175815821/TarkovAutoShadePlus](https://github.com/a1175815821/TarkovAutoShadePlus) <sub>`2 小时前`</sub>
+- ⬆️ 向 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 推送了新代码 <sub>`1 天前`</sub>
 - ⬆️ 向 [DG-Lab-2.0-VRChat-OSC](https://github.com/a1175815821/DG-Lab-2.0-VRChat-OSC) 推送了新代码 <sub>`3 天前`</sub>
-- ⬆️ 向 [MegaDownloader-Revival-Web](https://github.com/a1175815821/MegaDownloader-Revival-Web) 推送了新代码 <sub>`4 天前`</sub>
 - 🌱 在 [MegaDownloader-Revival-Web](https://github.com/a1175815821/MegaDownloader-Revival-Web) 创建了分支 <sub>`4 天前`</sub>
 
 <!-- AUTO:END:activity -->
