@@ -111,8 +111,8 @@ Reviving MegaDownloader v1.8 with modern MEGA link support. Restored support fo�
 | [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) | Reviving MegaDownloader v1.8 with modern MEGA lin… | Visual Basic .NET | ⭐ 36 |
 | [DG-Lab-2.0-VRChat-OSC](https://github.com/a1175815821/DG-Lab-2.0-VRChat-OSC) | 将 DG-Lab Coyote 电刺激设备通过 OSC 协议接入 VRChat。基于 Sakura… | JavaScript | ⭐ 2 |
 | 🍴 [OyasumiVR](https://github.com/a1175815821/OyasumiVR) | 🥽 VR Sleeping Utilities | TypeScript | ⭐ 1 |
-| 🍴 [TarkovAutoShadePlus](https://github.com/a1175815821/TarkovAutoShadePlus) | A local adaptive SDR display filter for Escape fr… | C# | — |
 | [MegaDownloader-Revival-Web](https://github.com/a1175815821/MegaDownloader-Revival-Web) | Landing page for MegaDownloader Revival (classic … | HTML | — |
+| 🍴 [TarkovAutoShadePlus](https://github.com/a1175815821/TarkovAutoShadePlus) | A local adaptive SDR display filter for Escape fr… | C# | — |
 | [vrchat-friend-cleaner](https://github.com/a1175815821/vrchat-friend-cleaner) | VRChat 好友批量清理工具 - 纯标准库暗色GUI，支持2FA/断点续传/防封控速 | Python | — |
 | [DGLAB-V2.0-socket-UI](https://github.com/a1175815821/DGLAB-V2.0-socket-UI) | DGLAB V2.0 Web Control Panel with i18n, waveform … | Python | — |
 | 🍴 [VRCX](https://github.com/a1175815821/VRCX) | Friendship management tool for VRChat | Vue | — |
@@ -123,10 +123,10 @@ Reviving MegaDownloader v1.8 with modern MEGA link support. Restored support fo�
 
 <!-- AUTO:START:activity -->
 
+- ⬆️ 向 [MegaDownloader-Revival-Web](https://github.com/a1175815821/MegaDownloader-Revival-Web) 推送了新代码 <sub>`2 小时前`</sub>
 - ⬆️ 向 [TarkovAutoShadePlus](https://github.com/a1175815821/TarkovAutoShadePlus) 推送了新代码 <sub>`1 天前`</sub>
 - 🚀 在 [TarkovAutoShadePlus](https://github.com/a1175815821/TarkovAutoShadePlus) 发布了 [v2.2.0](https://github.com/a1175815821/TarkovAutoShadePlus/releases/tag/v2.2.0) <sub>`1 天前`</sub>
 - ⬆️ 向 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 推送了新代码 <sub>`4 天前`</sub>
-- ⬆️ 向 [MegaDownloader-Revival-Web](https://github.com/a1175815821/MegaDownloader-Revival-Web) 推送了新代码 <sub>`3 天前`</sub>
 - 🍴 Fork 了 [a1175815821/TarkovAutoShadePlus](https://github.com/a1175815821/TarkovAutoShadePlus) <sub>`3 天前`</sub>
 - ⬆️ 向 [DG-Lab-2.0-VRChat-OSC](https://github.com/a1175815821/DG-Lab-2.0-VRChat-OSC) 推送了新代码 <sub>`7 天前`</sub>
 - 🌱 在 [MegaDownloader-Revival-Web](https://github.com/a1175815821/MegaDownloader-Revival-Web) 创建了分支 <sub>`8 天前`</sub>
