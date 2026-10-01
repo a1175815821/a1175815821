@@ -123,13 +123,14 @@ Reviving MegaDownloader v1.8 with modern MEGA link support. Restored support fo�
 
 <!-- AUTO:START:activity -->
 
+- 🐛 提了 Issue [#150](https://github.com/fqscfqj/Y2A-Auto/issues/150) · [fqscfqj/Y2A-Auto](https://github.com/fqscfqj/Y2A-Auto) <sub>`1 小时前`</sub>
+- 🚀 在 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 发布了 [v2.5.4](https://github.com/a1175815821/MegaDownloader-Revival/releases/tag/v2.5.4) <sub>`6 小时前`</sub>
 - ⬆️ 向 [MegaDownloader-Revival-Web](https://github.com/a1175815821/MegaDownloader-Revival-Web) 推送了新代码 <sub>`9 天前`</sub>
-- ⬆️ 向 [TarkovAutoShadePlus](https://github.com/a1175815821/TarkovAutoShadePlus) 推送了新代码 <sub>`10 天前`</sub>
-- 🚀 在 [TarkovAutoShadePlus](https://github.com/a1175815821/TarkovAutoShadePlus) 发布了 [v2.2.0](https://github.com/a1175815821/TarkovAutoShadePlus/releases/tag/v2.2.0) <sub>`10 天前`</sub>
-- ⬆️ 向 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 推送了新代码 <sub>`13 天前`</sub>
+- ⬆️ 向 [TarkovAutoShadePlus](https://github.com/a1175815821/TarkovAutoShadePlus) 推送了新代码 <sub>`11 天前`</sub>
+- 🚀 在 [TarkovAutoShadePlus](https://github.com/a1175815821/TarkovAutoShadePlus) 发布了 [v2.2.0](https://github.com/a1175815821/TarkovAutoShadePlus/releases/tag/v2.2.0) <sub>`11 天前`</sub>
+- ⬆️ 向 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 推送了新代码 <sub>`14 天前`</sub>
 - 🍴 Fork 了 [a1175815821/TarkovAutoShadePlus](https://github.com/a1175815821/TarkovAutoShadePlus) <sub>`13 天前`</sub>
 - ⬆️ 向 [DG-Lab-2.0-VRChat-OSC](https://github.com/a1175815821/DG-Lab-2.0-VRChat-OSC) 推送了新代码 <sub>`16 天前`</sub>
-- 🌱 在 [MegaDownloader-Revival-Web](https://github.com/a1175815821/MegaDownloader-Revival-Web) 创建了分支 <sub>`17 天前`</sub>
 
 <!-- AUTO:END:activity -->
 
