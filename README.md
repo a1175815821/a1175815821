@@ -26,7 +26,7 @@
 
 <!-- AUTO:START:badges -->
 
-<img src="https://img.shields.io/badge/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93-11-blue?style=flat-square&logo=github" alt="公开仓库"> <img src="https://img.shields.io/badge/%E8%8E%B7%E5%BE%97%20Stars-41-yellow?style=flat-square&logo=githubsponsors" alt="获得 Stars"> <img src="https://img.shields.io/badge/Forks-0-orange?style=flat-square&logo=git" alt="Forks"> <img src="https://img.shields.io/badge/%E5%85%B3%E6%B3%A8%E8%80%85-5-7C3AED?style=flat-square&logo=github" alt="关注者"> <img src="https://img.shields.io/badge/%E5%85%A5%E9%A9%BB%E5%B9%B4%E4%BB%BD-2020-06B6D4?style=flat-square&logo=github" alt="入驻年份">
+<img src="https://img.shields.io/badge/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93-12-blue?style=flat-square&logo=github" alt="公开仓库"> <img src="https://img.shields.io/badge/%E8%8E%B7%E5%BE%97%20Stars-41-yellow?style=flat-square&logo=githubsponsors" alt="获得 Stars"> <img src="https://img.shields.io/badge/Forks-0-orange?style=flat-square&logo=git" alt="Forks"> <img src="https://img.shields.io/badge/%E5%85%B3%E6%B3%A8%E8%80%85-5-7C3AED?style=flat-square&logo=github" alt="关注者"> <img src="https://img.shields.io/badge/%E5%85%A5%E9%A9%BB%E5%B9%B4%E4%BB%BD-2020-06B6D4?style=flat-square&logo=github" alt="入驻年份">
 
 <!-- AUTO:END:badges -->
 
@@ -111,11 +111,11 @@ Reviving MegaDownloader v1.8 with modern MEGA link support. Restored support fo�
 | [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) | Reviving MegaDownloader v1.8 with modern MEGA lin… | Visual Basic .NET | ⭐ 38 |
 | [DG-Lab-2.0-VRChat-OSC](https://github.com/a1175815821/DG-Lab-2.0-VRChat-OSC) | 将 DG-Lab Coyote 电刺激设备通过 OSC 协议接入 VRChat。基于 Sakura… | JavaScript | ⭐ 2 |
 | 🍴 [OyasumiVR](https://github.com/a1175815821/OyasumiVR) | 🥽 VR Sleeping Utilities | TypeScript | ⭐ 1 |
+| [Y2B](https://github.com/a1175815821/Y2B) | — | Rust | — |
 | [MegaDownloader-Revival-Web](https://github.com/a1175815821/MegaDownloader-Revival-Web) | Landing page for MegaDownloader Revival (classic … | HTML | — |
 | 🍴 [TarkovAutoShadePlus](https://github.com/a1175815821/TarkovAutoShadePlus) | A local adaptive SDR display filter for Escape fr… | C# | — |
 | [vrchat-friend-cleaner](https://github.com/a1175815821/vrchat-friend-cleaner) | VRChat 好友批量清理工具 - 纯标准库暗色GUI，支持2FA/断点续传/防封控速 | Python | — |
 | [DGLAB-V2.0-socket-UI](https://github.com/a1175815821/DGLAB-V2.0-socket-UI) | DGLAB V2.0 Web Control Panel with i18n, waveform … | Python | — |
-| 🍴 [VRCX](https://github.com/a1175815821/VRCX) | Friendship management tool for VRChat | Vue | — |
 
 <!-- AUTO:END:repos -->
 
@@ -123,14 +123,14 @@ Reviving MegaDownloader v1.8 with modern MEGA link support. Restored support fo�
 
 <!-- AUTO:START:activity -->
 
-- 🐛 提了 Issue [#150](https://github.com/fqscfqj/Y2A-Auto/issues/150) · [fqscfqj/Y2A-Auto](https://github.com/fqscfqj/Y2A-Auto) <sub>`1 小时前`</sub>
-- 🚀 在 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 发布了 [v2.5.4](https://github.com/a1175815821/MegaDownloader-Revival/releases/tag/v2.5.4) <sub>`6 小时前`</sub>
+- 🚀 在 [Y2B](https://github.com/a1175815821/Y2B) 发布了 [Y2B-v0.1.0](https://github.com/a1175815821/Y2B/releases/tag/v0.1.0) <sub>`31 分钟前`</sub>
+- 🌱 在 [Y2B](https://github.com/a1175815821/Y2B) 创建了分支 <sub>`35 分钟前`</sub>
+- ⬆️ 向 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 推送了新代码 <sub>`14 小时前`</sub>
+- 🐛 提了 Issue [#150](https://github.com/fqscfqj/Y2A-Auto/issues/150) · [fqscfqj/Y2A-Auto](https://github.com/fqscfqj/Y2A-Auto) <sub>`8 小时前`</sub>
+- 🚀 在 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 发布了 [v2.5.4](https://github.com/a1175815821/MegaDownloader-Revival/releases/tag/v2.5.4) <sub>`14 小时前`</sub>
 - ⬆️ 向 [MegaDownloader-Revival-Web](https://github.com/a1175815821/MegaDownloader-Revival-Web) 推送了新代码 <sub>`9 天前`</sub>
 - ⬆️ 向 [TarkovAutoShadePlus](https://github.com/a1175815821/TarkovAutoShadePlus) 推送了新代码 <sub>`11 天前`</sub>
 - 🚀 在 [TarkovAutoShadePlus](https://github.com/a1175815821/TarkovAutoShadePlus) 发布了 [v2.2.0](https://github.com/a1175815821/TarkovAutoShadePlus/releases/tag/v2.2.0) <sub>`11 天前`</sub>
-- ⬆️ 向 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 推送了新代码 <sub>`14 天前`</sub>
-- 🍴 Fork 了 [a1175815821/TarkovAutoShadePlus](https://github.com/a1175815821/TarkovAutoShadePlus) <sub>`13 天前`</sub>
-- ⬆️ 向 [DG-Lab-2.0-VRChat-OSC](https://github.com/a1175815821/DG-Lab-2.0-VRChat-OSC) 推送了新代码 <sub>`16 天前`</sub>
 
 <!-- AUTO:END:activity -->
 
