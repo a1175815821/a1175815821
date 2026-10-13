@@ -54,8 +54,7 @@ focus:
 - 🔭 我正在维护 **[MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival)** —— 让老版 MegaDownloader 重新支持新版 MEGA 链接
 - 🌱 主要技术栈：**JavaScript / TypeScript / Python / VB.NET**
 - 💬 欢迎一起聊聊 **VRChat 开发、TTS 语音合成、用户脚本**
-- ⚡ 趣事：成就 **Pull Shark x2**，给开源项目提过 PR
-- 📫 联系我：通过 GitHub 即可
+- 📫 联系我：a1175815821@163.com
 
 ## 🛠️ 技术栈 | Tech Stack
 
