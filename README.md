@@ -26,7 +26,7 @@
 
 <!-- AUTO:START:badges -->
 
-<img src="https://img.shields.io/badge/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93-13-blue?style=flat-square&logo=github" alt="公开仓库"> <img src="https://img.shields.io/badge/%E8%8E%B7%E5%BE%97%20Stars-51-yellow?style=flat-square&logo=githubsponsors" alt="获得 Stars"> <img src="https://img.shields.io/badge/Forks-0-orange?style=flat-square&logo=git" alt="Forks"> <img src="https://img.shields.io/badge/%E5%85%B3%E6%B3%A8%E8%80%85-5-7C3AED?style=flat-square&logo=github" alt="关注者"> <img src="https://img.shields.io/badge/%E5%85%A5%E9%A9%BB%E5%B9%B4%E4%BB%BD-2020-06B6D4?style=flat-square&logo=github" alt="入驻年份">
+<img src="https://img.shields.io/badge/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93-13-blue?style=flat-square&logo=github" alt="公开仓库"> <img src="https://img.shields.io/badge/%E8%8E%B7%E5%BE%97%20Stars-52-yellow?style=flat-square&logo=githubsponsors" alt="获得 Stars"> <img src="https://img.shields.io/badge/Forks-0-orange?style=flat-square&logo=git" alt="Forks"> <img src="https://img.shields.io/badge/%E5%85%B3%E6%B3%A8%E8%80%85-5-7C3AED?style=flat-square&logo=github" alt="关注者"> <img src="https://img.shields.io/badge/%E5%85%A5%E9%A9%BB%E5%B9%B4%E4%BB%BD-2020-06B6D4?style=flat-square&logo=github" alt="入驻年份">
 
 <!-- AUTO:END:badges -->
 
@@ -89,7 +89,7 @@ focus:
 
 Reviving MegaDownloader v1.8 with modern MEGA link support. Restored support fo…
 
-`Visual Basic .NET` · ⭐ 49
+`Visual Basic .NET` · ⭐ 50
 
 ---
 
@@ -107,7 +107,7 @@ Reviving MegaDownloader v1.8 with modern MEGA link support. Restored support fo�
 
 | 仓库 | 说明 | 语言 | Stars |
 |:---|:---|:---:|:---:|
-| [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) | Reviving MegaDownloader v1.8 with modern MEGA lin… | Visual Basic .NET | ⭐ 49 |
+| [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) | Reviving MegaDownloader v1.8 with modern MEGA lin… | Visual Basic .NET | ⭐ 50 |
 | [DG-Lab-2.0-VRChat-OSC](https://github.com/a1175815821/DG-Lab-2.0-VRChat-OSC) | 将 DG-Lab Coyote 电刺激设备通过 OSC 协议接入 VRChat。基于 Sakura… | Python | ⭐ 2 |
 | [Y2B](https://github.com/a1175815821/Y2B) | — | Rust | — |
 | [MIUI-Back-Gesture-Fix](https://github.com/a1175815821/MIUI-Back-Gesture-Fix) | LSPosed 模块：修复 HyperOS / MIUI 上侧滑返回手势失效（BackMotion… | Java | — |
