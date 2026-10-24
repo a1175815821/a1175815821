@@ -87,7 +87,7 @@ focus:
 
 ### 📦 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival)
 
-Reviving MegaDownloader v1.8 with modern MEGA link support. Restored support fo…
+MEGA 下载器复活版 · Revived MegaDownloader for Windows. 支持新版 mega.nz/file/ 与 mega.nz/…
 
 `Visual Basic .NET` · ⭐ 51
 
@@ -107,11 +107,11 @@ Reviving MegaDownloader v1.8 with modern MEGA link support. Restored support fo�
 
 | 仓库 | 说明 | 语言 | Stars |
 |:---|:---|:---:|:---:|
-| [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) | Reviving MegaDownloader v1.8 with modern MEGA lin… | Visual Basic .NET | ⭐ 51 |
+| [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) | MEGA 下载器复活版 · Revived MegaDownloader for Windows.… | Visual Basic .NET | ⭐ 51 |
 | [DG-Lab-2.0-VRChat-OSC](https://github.com/a1175815821/DG-Lab-2.0-VRChat-OSC) | 将 DG-Lab Coyote 电刺激设备通过 OSC 协议接入 VRChat。基于 Sakura… | Python | ⭐ 2 |
+| [MegaDownloader-Revival-Web](https://github.com/a1175815821/MegaDownloader-Revival-Web) | Landing page for MegaDownloader Revival (classic … | HTML | — |
 | [Y2B](https://github.com/a1175815821/Y2B) | — | Rust | — |
 | [MIUI-Back-Gesture-Fix](https://github.com/a1175815821/MIUI-Back-Gesture-Fix) | LSPosed 模块：修复 HyperOS / MIUI 上侧滑返回手势失效（BackMotion… | Java | — |
-| [MegaDownloader-Revival-Web](https://github.com/a1175815821/MegaDownloader-Revival-Web) | Landing page for MegaDownloader Revival (classic … | HTML | — |
 | 🍴 [TarkovAutoShadePlus](https://github.com/a1175815821/TarkovAutoShadePlus) | A local adaptive SDR display filter for Escape fr… | C# | — |
 | [vrchat-friend-cleaner](https://github.com/a1175815821/vrchat-friend-cleaner) | VRChat 好友批量清理工具 - 纯标准库暗色GUI，支持2FA/断点续传/防封控速 | Python | — |
 | [DGLAB-V2.0-socket-UI](https://github.com/a1175815821/DGLAB-V2.0-socket-UI) | DGLAB V2.0 Web Control Panel with i18n, waveform … | Python | — |
@@ -123,12 +123,12 @@ Reviving MegaDownloader v1.8 with modern MEGA link support. Restored support fo�
 <!-- AUTO:START:activity -->
 
 - ⬆️ 向 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 推送了新代码 <sub>`2 天前`</sub>
-- ⬆️ 向 [Y2B](https://github.com/a1175815821/Y2B) 推送了新代码 <sub>`10 天前`</sub>
-- ⬆️ 向 [DG-Lab-2.0-VRChat-OSC](https://github.com/a1175815821/DG-Lab-2.0-VRChat-OSC) 推送了新代码 <sub>`10 天前`</sub>
+- ⬆️ 向 [Y2B](https://github.com/a1175815821/Y2B) 推送了新代码 <sub>`11 天前`</sub>
+- ⬆️ 向 [DG-Lab-2.0-VRChat-OSC](https://github.com/a1175815821/DG-Lab-2.0-VRChat-OSC) 推送了新代码 <sub>`11 天前`</sub>
 - ⬆️ 向 [a1175815821](https://github.com/a1175815821/a1175815821) 推送了新代码 <sub>`11 天前`</sub>
-- 🚀 在 [Y2B](https://github.com/a1175815821/Y2B) 发布了 [v0.2.3](https://github.com/a1175815821/Y2B/releases/tag/v0.2.3) <sub>`10 天前`</sub>
-- 🌱 在 [MIUI-Back-Gesture-Fix](https://github.com/a1175815821/MIUI-Back-Gesture-Fix) 创建了分支 <sub>`11 天前`</sub>
-- 🚀 在 [MIUI-Back-Gesture-Fix](https://github.com/a1175815821/MIUI-Back-Gesture-Fix) 发布了 [v1.0 — 首个版本](https://github.com/a1175815821/MIUI-Back-Gesture-Fix/releases/tag/v1.0) <sub>`11 天前`</sub>
+- 🚀 在 [Y2B](https://github.com/a1175815821/Y2B) 发布了 [v0.2.3](https://github.com/a1175815821/Y2B/releases/tag/v0.2.3) <sub>`11 天前`</sub>
+- 🌱 在 [MIUI-Back-Gesture-Fix](https://github.com/a1175815821/MIUI-Back-Gesture-Fix) 创建了分支 <sub>`12 天前`</sub>
+- 🚀 在 [MIUI-Back-Gesture-Fix](https://github.com/a1175815821/MIUI-Back-Gesture-Fix) 发布了 [v1.0 — 首个版本](https://github.com/a1175815821/MIUI-Back-Gesture-Fix/releases/tag/v1.0) <sub>`12 天前`</sub>
 - 🐛 关闭了 Issue [#6](https://github.com/a1175815821/MegaDownloader-Revival/issues/6) · [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) <sub>`14 天前`</sub>
 
 <!-- AUTO:END:activity -->
