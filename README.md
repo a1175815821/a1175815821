@@ -122,14 +122,14 @@ focus:
 
 <!-- AUTO:START:activity -->
 
+- ⬆️ 向 [geo-helper](https://github.com/a1175815821/geo-helper) 推送了新代码 <sub>`22 小时前`</sub>
 - ⬆️ 向 [MegaDownloader-Revival-Web](https://github.com/a1175815821/MegaDownloader-Revival-Web) 推送了新代码 <sub>`1 天前`</sub>
 - ⬆️ 向 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 推送了新代码 <sub>`1 天前`</sub>
-- ⬆️ 向 [DG-Lab-2.0-VRChat-OSC](https://github.com/a1175815821/DG-Lab-2.0-VRChat-OSC) 推送了新代码 <sub>`12 小时前`</sub>
-- 🚀 在 [DGLAB-V2.0-socket-UI](https://github.com/a1175815821/DGLAB-V2.0-socket-UI) 发布了 [v2.1 协议修复 · App 同步 · 稳定性增强](https://github.com/a1175815821/DGLAB-V2.0-socket-UI/releases/tag/v2.1) <sub>`12 小时前`</sub>
-- 🚀 在 [ChessPilot](https://github.com/a1175815821/ChessPilot) 发布了 [ChessPilot v0.5](https://github.com/a1175815821/ChessPilot/releases/tag/v0.5) <sub>`13 小时前`</sub>
+- ⬆️ 向 [DG-Lab-2.0-VRChat-OSC](https://github.com/a1175815821/DG-Lab-2.0-VRChat-OSC) 推送了新代码 <sub>`20 小时前`</sub>
+- 🚀 在 [DGLAB-V2.0-socket-UI](https://github.com/a1175815821/DGLAB-V2.0-socket-UI) 发布了 [v2.1 协议修复 · App 同步 · 稳定性增强](https://github.com/a1175815821/DGLAB-V2.0-socket-UI/releases/tag/v2.1) <sub>`20 小时前`</sub>
+- 🚀 在 [ChessPilot](https://github.com/a1175815821/ChessPilot) 发布了 [ChessPilot v0.5](https://github.com/a1175815821/ChessPilot/releases/tag/v0.5) <sub>`21 小时前`</sub>
 - ⬆️ 向 [a1175815821](https://github.com/a1175815821/a1175815821) 推送了新代码 <sub>`12 天前`</sub>
 - 🚀 在 [Y2B](https://github.com/a1175815821/Y2B) 发布了 [v0.2.3](https://github.com/a1175815821/Y2B/releases/tag/v0.2.3) <sub>`12 天前`</sub>
-- 🌱 在 [MIUI-Back-Gesture-Fix](https://github.com/a1175815821/MIUI-Back-Gesture-Fix) 创建了分支 <sub>`13 天前`</sub>
 
 <!-- AUTO:END:activity -->
 
