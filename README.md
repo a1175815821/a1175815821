@@ -110,9 +110,9 @@ focus:
 | [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) | ⚡ Revived MEGA downloader for Windows: new mega.n… | Visual Basic .NET | ⭐ 58 |
 | [DG-Lab-2.0-VRChat-OSC](https://github.com/a1175815821/DG-Lab-2.0-VRChat-OSC) | 将 DG-Lab Coyote 电刺激设备接入 VRChat：虚拟形象被触碰，现实同步反馈。Win… | Python | ⭐ 2 |
 | [geo-helper](https://github.com/a1175815821/geo-helper) | 图寻街景坐标解析 Chrome 扩展：本地 ~400ms 判定国家方位，AI 深度分析自动接力。三… | JavaScript | ⭐ 1 |
+| [MegaDownloader-Revival-Web](https://github.com/a1175815821/MegaDownloader-Revival-Web) | Landing page for MegaDownloader Revival (classic … | JavaScript | — |
 | [MIUI-Back-Gesture-Fix](https://github.com/a1175815821/MIUI-Back-Gesture-Fix) | 侧滑返回没反应、返回键却正常？LSPosed 模块，修复 HyperOS / MIUI（Andro… | Java | — |
 | [ChessPilot](https://github.com/a1175815821/ChessPilot) | 在多邻国国际象棋里实时分析局面、画推荐箭头、自动走棋 — LSPosed Hook + Stock… | Kotlin | — |
-| [MegaDownloader-Revival-Web](https://github.com/a1175815821/MegaDownloader-Revival-Web) | Landing page for MegaDownloader Revival (classic … | CSS | — |
 | [DGLAB-V2.0-socket-UI](https://github.com/a1175815821/DGLAB-V2.0-socket-UI) | DGLAB V2.0 Web Control Panel with i18n, waveform … | Python | — |
 | 🍴 [TarkovAutoShadePlus](https://github.com/a1175815821/TarkovAutoShadePlus) | A local adaptive SDR display filter for Escape fr… | C# | — |
 
@@ -122,14 +122,14 @@ focus:
 
 <!-- AUTO:START:activity -->
 
-- 🐛 提了 Issue [#158](https://github.com/fqscfqj/Y2A-Auto/issues/158) · [fqscfqj/Y2A-Auto](https://github.com/fqscfqj/Y2A-Auto) <sub>`15 小时前`</sub>
-- ⬆️ 向 [Xposed-Modules-Repo/io.github.a1175815821.miuibackfix](https://github.com/Xposed-Modules-Repo/io.github.a1175815821.miuibackfix) 推送了新代码 <sub>`1 天前`</sub>
-- ⬆️ 向 [Xposed-Modules-Repo/io.github.a1175815821.chesspilot](https://github.com/Xposed-Modules-Repo/io.github.a1175815821.chesspilot) 推送了新代码 <sub>`1 天前`</sub>
-- 🌱 在 [Xposed-Modules-Repo/io.github.a1175815821.miuibackfix](https://github.com/Xposed-Modules-Repo/io.github.a1175815821.miuibackfix) 创建了分支 <sub>`1 天前`</sub>
-- ⬆️ 向 [MIUI-Back-Gesture-Fix](https://github.com/a1175815821/MIUI-Back-Gesture-Fix) 推送了新代码 <sub>`1 天前`</sub>
-- ⬆️ 向 [ChessPilot](https://github.com/a1175815821/ChessPilot) 推送了新代码 <sub>`1 天前`</sub>
-- 🌱 在 [Xposed-Modules-Repo/io.github.a1175815821.chesspilot](https://github.com/Xposed-Modules-Repo/io.github.a1175815821.chesspilot) 创建了分支 <sub>`1 天前`</sub>
-- 🚀 在 [Xposed-Modules-Repo/io.github.a1175815821.miuibackfix](https://github.com/Xposed-Modules-Repo/io.github.a1175815821.miuibackfix) 发布了 [1.1](https://github.com/Xposed-Modules-Repo/io.github.a1175815821.miuibackfix/releases/tag/2-1.1) <sub>`1 天前`</sub>
+- 🐛 提了 Issue [#158](https://github.com/fqscfqj/Y2A-Auto/issues/158) · [fqscfqj/Y2A-Auto](https://github.com/fqscfqj/Y2A-Auto) <sub>`22 小时前`</sub>
+- ⬆️ 向 [Xposed-Modules-Repo/io.github.a1175815821.miuibackfix](https://github.com/Xposed-Modules-Repo/io.github.a1175815821.miuibackfix) 推送了新代码 <sub>`2 天前`</sub>
+- ⬆️ 向 [Xposed-Modules-Repo/io.github.a1175815821.chesspilot](https://github.com/Xposed-Modules-Repo/io.github.a1175815821.chesspilot) 推送了新代码 <sub>`2 天前`</sub>
+- 🌱 在 [Xposed-Modules-Repo/io.github.a1175815821.miuibackfix](https://github.com/Xposed-Modules-Repo/io.github.a1175815821.miuibackfix) 创建了分支 <sub>`2 天前`</sub>
+- ⬆️ 向 [MIUI-Back-Gesture-Fix](https://github.com/a1175815821/MIUI-Back-Gesture-Fix) 推送了新代码 <sub>`2 天前`</sub>
+- ⬆️ 向 [ChessPilot](https://github.com/a1175815821/ChessPilot) 推送了新代码 <sub>`2 天前`</sub>
+- 🌱 在 [Xposed-Modules-Repo/io.github.a1175815821.chesspilot](https://github.com/Xposed-Modules-Repo/io.github.a1175815821.chesspilot) 创建了分支 <sub>`2 天前`</sub>
+- 🚀 在 [Xposed-Modules-Repo/io.github.a1175815821.miuibackfix](https://github.com/Xposed-Modules-Repo/io.github.a1175815821.miuibackfix) 发布了 [1.1](https://github.com/Xposed-Modules-Repo/io.github.a1175815821.miuibackfix/releases/tag/2-1.1) <sub>`2 天前`</sub>
 
 <!-- AUTO:END:activity -->
 
