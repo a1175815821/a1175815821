@@ -26,7 +26,7 @@
 
 <!-- AUTO:START:badges -->
 
-<img src="https://img.shields.io/badge/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93-14-blue?style=flat-square&logo=github" alt="公开仓库"> <img src="https://img.shields.io/badge/%E8%8E%B7%E5%BE%97%20Stars-62-yellow?style=flat-square&logo=githubsponsors" alt="获得 Stars"> <img src="https://img.shields.io/badge/Forks-1-orange?style=flat-square&logo=git" alt="Forks"> <img src="https://img.shields.io/badge/%E5%85%B3%E6%B3%A8%E8%80%85-5-7C3AED?style=flat-square&logo=github" alt="关注者"> <img src="https://img.shields.io/badge/%E5%85%A5%E9%A9%BB%E5%B9%B4%E4%BB%BD-2020-06B6D4?style=flat-square&logo=github" alt="入驻年份">
+<img src="https://img.shields.io/badge/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93-14-blue?style=flat-square&logo=github" alt="公开仓库"> <img src="https://img.shields.io/badge/%E8%8E%B7%E5%BE%97%20Stars-63-yellow?style=flat-square&logo=githubsponsors" alt="获得 Stars"> <img src="https://img.shields.io/badge/Forks-1-orange?style=flat-square&logo=git" alt="Forks"> <img src="https://img.shields.io/badge/%E5%85%B3%E6%B3%A8%E8%80%85-5-7C3AED?style=flat-square&logo=github" alt="关注者"> <img src="https://img.shields.io/badge/%E5%85%A5%E9%A9%BB%E5%B9%B4%E4%BB%BD-2020-06B6D4?style=flat-square&logo=github" alt="入驻年份">
 
 <!-- AUTO:END:badges -->
 
@@ -89,7 +89,7 @@ focus:
 
 ⚡ Revived MEGA downloader for Windows: new mega.nz links, multi-threading, resu…
 
-`Visual Basic .NET` · ⭐ 59
+`Visual Basic .NET` · ⭐ 60
 
 ---
 
@@ -107,7 +107,7 @@ focus:
 
 | 仓库 | 说明 | 语言 | Stars |
 |:---|:---|:---:|:---:|
-| [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) | ⚡ Revived MEGA downloader for Windows: new mega.n… | Visual Basic .NET | ⭐ 59 |
+| [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) | ⚡ Revived MEGA downloader for Windows: new mega.n… | Visual Basic .NET | ⭐ 60 |
 | [DG-Lab-2.0-VRChat-OSC](https://github.com/a1175815821/DG-Lab-2.0-VRChat-OSC) | 将 DG-Lab Coyote 电刺激设备接入 VRChat：虚拟形象被触碰，现实同步反馈。Win… | Python | ⭐ 2 |
 | [geo-helper](https://github.com/a1175815821/geo-helper) | 图寻街景坐标解析 Chrome 扩展：本地 ~400ms 判定国家方位，AI 深度分析自动接力。三… | JavaScript | ⭐ 1 |
 | [MegaDownloader-Revival-Web](https://github.com/a1175815821/MegaDownloader-Revival-Web) | Landing page for MegaDownloader Revival (classic … | JavaScript | — |
