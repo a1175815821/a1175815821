@@ -26,7 +26,7 @@
 
 <!-- AUTO:START:badges -->
 
-<img src="https://img.shields.io/badge/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93-15-blue?style=flat-square&logo=github" alt="公开仓库"> <img src="https://img.shields.io/badge/%E8%8E%B7%E5%BE%97%20Stars-73-yellow?style=flat-square&logo=githubsponsors" alt="获得 Stars"> <img src="https://img.shields.io/badge/Forks-2-orange?style=flat-square&logo=git" alt="Forks"> <img src="https://img.shields.io/badge/%E5%85%B3%E6%B3%A8%E8%80%85-5-7C3AED?style=flat-square&logo=github" alt="关注者"> <img src="https://img.shields.io/badge/%E5%85%A5%E9%A9%BB%E5%B9%B4%E4%BB%BD-2020-06B6D4?style=flat-square&logo=github" alt="入驻年份">
+<img src="https://img.shields.io/badge/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93-15-blue?style=flat-square&logo=github" alt="公开仓库"> <img src="https://img.shields.io/badge/%E8%8E%B7%E5%BE%97%20Stars-73-yellow?style=flat-square&logo=githubsponsors" alt="获得 Stars"> <img src="https://img.shields.io/badge/Forks-3-orange?style=flat-square&logo=git" alt="Forks"> <img src="https://img.shields.io/badge/%E5%85%B3%E6%B3%A8%E8%80%85-5-7C3AED?style=flat-square&logo=github" alt="关注者"> <img src="https://img.shields.io/badge/%E5%85%A5%E9%A9%BB%E5%B9%B4%E4%BB%BD-2020-06B6D4?style=flat-square&logo=github" alt="入驻年份">
 
 <!-- AUTO:END:badges -->
 
