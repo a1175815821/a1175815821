@@ -26,7 +26,7 @@
 
 <!-- AUTO:START:badges -->
 
-<img src="https://img.shields.io/badge/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93-15-blue?style=flat-square&logo=github" alt="公开仓库"> <img src="https://img.shields.io/badge/%E8%8E%B7%E5%BE%97%20Stars-73-yellow?style=flat-square&logo=githubsponsors" alt="获得 Stars"> <img src="https://img.shields.io/badge/Forks-2-orange?style=flat-square&logo=git" alt="Forks"> <img src="https://img.shields.io/badge/%E5%85%B3%E6%B3%A8%E8%80%85-6-7C3AED?style=flat-square&logo=github" alt="关注者"> <img src="https://img.shields.io/badge/%E5%85%A5%E9%A9%BB%E5%B9%B4%E4%BB%BD-2020-06B6D4?style=flat-square&logo=github" alt="入驻年份">
+<img src="https://img.shields.io/badge/%E5%85%AC%E5%BC%80%E4%BB%93%E5%BA%93-15-blue?style=flat-square&logo=github" alt="公开仓库"> <img src="https://img.shields.io/badge/%E8%8E%B7%E5%BE%97%20Stars-74-yellow?style=flat-square&logo=githubsponsors" alt="获得 Stars"> <img src="https://img.shields.io/badge/Forks-2-orange?style=flat-square&logo=git" alt="Forks"> <img src="https://img.shields.io/badge/%E5%85%B3%E6%B3%A8%E8%80%85-7-7C3AED?style=flat-square&logo=github" alt="关注者"> <img src="https://img.shields.io/badge/%E5%85%A5%E9%A9%BB%E5%B9%B4%E4%BB%BD-2020-06B6D4?style=flat-square&logo=github" alt="入驻年份">
 
 <!-- AUTO:END:badges -->
 
@@ -97,7 +97,7 @@ focus:
 
 将 DG-Lab Coyote 电刺激设备接入 VRChat：虚拟形象被触碰，现实同步反馈。Windows 开箱即用，中文 WebUI，安全模式 \| Conn…
 
-`Python` · ⭐ 2
+`Python` · ⭐ 3
 
 <!-- AUTO:END:pinned -->
 
@@ -108,7 +108,7 @@ focus:
 | 仓库 | 说明 | 语言 | Stars |
 |:---|:---|:---:|:---:|
 | [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) | ⚡ Revived MEGA downloader for Windows: new mega.n… | Visual Basic .NET | ⭐ 70 |
-| [DG-Lab-2.0-VRChat-OSC](https://github.com/a1175815821/DG-Lab-2.0-VRChat-OSC) | 将 DG-Lab Coyote 电刺激设备接入 VRChat：虚拟形象被触碰，现实同步反馈。Win… | Python | ⭐ 2 |
+| [DG-Lab-2.0-VRChat-OSC](https://github.com/a1175815821/DG-Lab-2.0-VRChat-OSC) | 将 DG-Lab Coyote 电刺激设备接入 VRChat：虚拟形象被触碰，现实同步反馈。Win… | Python | ⭐ 3 |
 | [geo-helper](https://github.com/a1175815821/geo-helper) | 图寻街景坐标解析 Chrome 扩展：本地 ~400ms 判定国家方位，AI 深度分析自动接力。三… | JavaScript | ⭐ 1 |
 | [MegaDownloader-Revival-Web](https://github.com/a1175815821/MegaDownloader-Revival-Web) | Landing page for MegaDownloader Revival (classic … | JavaScript | — |
 | 🍴 [Fap-Hero-Journey](https://github.com/a1175815821/Fap-Hero-Journey) | — | — | — |
@@ -122,12 +122,11 @@ focus:
 
 <!-- AUTO:START:activity -->
 
-- ⬆️ 向 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 推送了新代码 <sub>`20 小时前`</sub>
-- 🔀 更新了 PR [#7](undefined) · [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) <sub>`19 小时前`</sub>
-- 🌱 在 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 创建了分支 <sub>`4 天前`</sub>
-- ⬆️ 向 [MegaDownloader-Revival-Web](https://github.com/a1175815821/MegaDownloader-Revival-Web) 推送了新代码 <sub>`15 天前`</sub>
-- 🌱 在 [Fap-Hero-Journey](https://github.com/a1175815821/Fap-Hero-Journey) 创建了分支 <sub>`22 天前`</sub>
-- 🔀 开启了 PR [#14](undefined) · [SaekoM/Fap-Hero-Journey](https://github.com/SaekoM/Fap-Hero-Journey) <sub>`22 天前`</sub>
+- 🌱 在 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 创建了分支 <sub>`9 小时前`</sub>
+- ⬆️ 向 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 推送了新代码 <sub>`1 天前`</sub>
+- ⭐ Star 了 [R0Y00/Xbox2Windows](https://github.com/R0Y00/Xbox2Windows) <sub>`14 小时前`</sub>
+- 🔀 更新了 PR [#7](undefined) · [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) <sub>`1 天前`</sub>
+- ⬆️ 向 [MegaDownloader-Revival-Web](https://github.com/a1175815821/MegaDownloader-Revival-Web) 推送了新代码 <sub>`16 天前`</sub>
 
 <!-- AUTO:END:activity -->
 
