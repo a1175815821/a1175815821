@@ -122,10 +122,10 @@ focus:
 
 <!-- AUTO:START:activity -->
 
-- ⬆️ 向 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 推送了新代码 <sub>`21 小时前`</sub>
-- 🌱 在 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 创建了分支 <sub>`23 小时前`</sub>
-- ⭐ Star 了 [R0Y00/Xbox2Windows](https://github.com/R0Y00/Xbox2Windows) <sub>`1 天前`</sub>
-- 🔀 更新了 PR [#7](undefined) · [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) <sub>`2 天前`</sub>
+- ⬆️ 向 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 推送了新代码 <sub>`1 天前`</sub>
+- 🌱 在 [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) 创建了分支 <sub>`1 天前`</sub>
+- ⭐ Star 了 [R0Y00/Xbox2Windows](https://github.com/R0Y00/Xbox2Windows) <sub>`2 天前`</sub>
+- 🔀 更新了 PR [#7](undefined) · [MegaDownloader-Revival](https://github.com/a1175815821/MegaDownloader-Revival) <sub>`3 天前`</sub>
 
 <!-- AUTO:END:activity -->
 
